@@ -9,6 +9,7 @@ views\Controlador.class
 app\Program.class
 views\VehiculoViewModel.class
 views\ListarVehiculosView.class
+views\AgregarVehiculoView.class
 domain\Sucursal.class
 views\ListarVehiculosView$2.class
 domain\VehiculoTipo.class
