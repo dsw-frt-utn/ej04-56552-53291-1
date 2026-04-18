@@ -13,3 +13,4 @@ views\AgregarVehiculoView.class
 domain\Sucursal.class
 views\ListarVehiculosView$2.class
 domain\VehiculoTipo.class
+views\MenuPrincipalView.class
